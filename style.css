@@ -1,0 +1,13 @@
+img {
+    max-width: 80%; /* La imagen ocupará como máximo el 80% del ancho de su contenedor */
+    height: auto;  /* La altura se ajustará automáticamente para mantener la proporción */
+  }
+
+h1{
+    color: slateblue;
+    size: 35px;
+}
+
+body {
+    background-color: cornsilk; /* Cambia el color de fondo a azul claro */
+  }
